@@ -6,6 +6,7 @@ This repository includes:
 - Used datasets:
   - NOAA Geomagnetic Indices and Data by the National Centers for Environmental Information (https://www.ncei.noaa.gov/products/geomagnetic-indices) 
   - International Stroke Trial Database provided by the University of Edinburgh (https://datashare.ed.ac.uk/handle/10283/124)
+  - Copernicus Dataset (https://dataspace.copernicus.eu/)
 - Jupyter notebooks for data analysis and merging datasets
 - pickle-file with test predictive model.
 
